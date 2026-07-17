@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: ../crocodile.jpg
-thumbnail: ../crocodile.jpg
+img: crocodile.jpg
+thumbnail: crocodile.jpg
 alt: image-alt
 category: Tours
 description: Crocodile farming is a massive commercial industry in Cambodia, with approximately 700 registered farms raising over 1.5 million crocodiles. The industry predominantly revolves around breeding crocodiles for their high-value skins—exported to markets like China, Thailand, and Vietnam for luxury leather goods—as well as their meat. While primarily commercial operations, many farms have integrated into Cambodia's tourism landscape. Fishing villages and floating villages on the Tonle Sap Lake raise crocodiles since raising land livestock (like pigs or chickens) is impractical on the water, crocodiles serve as a highly practical alternative because they eat unwanted local fish, snakes, and rats.
