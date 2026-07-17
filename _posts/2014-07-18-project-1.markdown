@@ -1,15 +1,19 @@
 ---
 title: Fishing Village Tour
-subtitle: Authentic Tonle Sap Lake Village - Kampong Khleang
+subtitle: Authentic Tonle Sap Lake Fishing Village
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: '2014-07-18T00:00:00.000Z'
 img: village.jpg
 thumbnail: village.jpg
 alt: image-alt
-project-date: April 2014
+project-date: ''
 client: Start Bootstrap
-category: Web Development
-description: Kampong Khleang is the largest floating and stilt village on Cambodia's Tonle Sap Lake, located about 55km east of Siem Reap. Home to over 10,000 residents, it features massive houses built on stilts up to 10 meters high. It offers a highly authentic, off-the-beaten-path cultural experience.
-
+category: Tours
+description: >-
+  Kampong Khleang is the largest floating and stilt village on Cambodia's Tonle
+  Sap Lake, located about 55km east of Siem Reap. Home to over 10,000 residents,
+  it features massive houses built on stilts up to 10 meters high. It offers a
+  highly authentic, off-the-beaten-path cultural experience.
 ---
+Kampong Khleang is the largest floating and stilt village on Cambodia's Tonle Sap Lake, located about 55km east of Siem Reap. Home to over 10,000 residents, it features massive houses built on stilts up to 10 meters high. It offers a highly authentic, off-the-beaten-path cultural experience.
