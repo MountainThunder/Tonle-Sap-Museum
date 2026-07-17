@@ -1,15 +1,12 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Lotus Farm Experience
+subtitle: Farm experience
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: lotus.jpg
+thumbnail: lotus.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Tours
+description: ' Lotus flowers are immensely important in Campbodian life. Lotus is the national flower and a symbol of resilience, purity, and spiritual awakening. Because it emerges untouched from murky waters, it holds deep spiritual significance in both Hindu and Buddhist traditions.'
 ---
+Lotus flowers are immensely important in Campbodian life. Lotus is the national flower and a symbol of resilience, purity, and spiritual awakening. Because it emerges untouched from murky waters, it holds deep spiritual significance in both Hindu and Buddhist traditions.
