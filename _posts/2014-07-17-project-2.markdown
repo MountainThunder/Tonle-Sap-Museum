@@ -7,6 +7,10 @@ img: lotus.jpg
 thumbnail: lotus.jpg
 alt: image-alt
 category: Tours
-description: ' Lotus flowers are immensely important in Campbodian life. Lotus is the national flower and a symbol of resilience, purity, and spiritual awakening. Because it emerges untouched from murky waters, it holds deep spiritual significance in both Hindu and Buddhist traditions.'
+description: ' Lotus flowers are immensely important in Cambodian life. Lotus is the national flower and a symbol of resilience, purity, and spiritual awakening. Because it emerges untouched from murky waters, it holds deep spiritual significance in both Hindu and Buddhist traditions.'
 ---
-Lotus flowers are immensely important in Campbodian life. Lotus is the national flower and a symbol of resilience, purity, and spiritual awakening. Because it emerges untouched from murky waters, it holds deep spiritual significance in both Hindu and Buddhist traditions.
+Lotus flowers are immensely important in Cambodian life. Lotus is the national flower and a symbol of resilience, purity, and spiritual awakening. Because it emerges untouched from murky waters, it holds deep spiritual significance in both Hindu and Buddhist traditions.
+
+The lotus flower has been cultivated and gathered wild for thousands of years. Learn about how every part of the plant is used for food, traditional medicine, textiles and as a spiritual offering at temples and shrines.
+
+Walk through a working lotus farm and see these beautiful flowers up close. Try a delicious fresh lotus seed right out of a freshly picked lotus head.
