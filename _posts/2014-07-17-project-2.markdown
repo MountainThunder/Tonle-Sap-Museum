@@ -3,7 +3,7 @@ title: Lotus Farm Experience
 subtitle: Farm experience
 layout: default
 modal-id: 2
-img: lotus.jpg
+img: lotus leaf.jpg
 thumbnail: lotus.jpg
 alt: image-alt
 category: Tours
