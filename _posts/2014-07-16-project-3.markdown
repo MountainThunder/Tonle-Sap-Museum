@@ -1,15 +1,13 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Traditional Khmer Cooking Class
+subtitle: Open-Air Kitchen Cooking
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: cooking.jpg
+thumbnail: cooking.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Cooking Class
+description: Experience traditional khmer food and the joy of cooking how Khmer people in this village have cooked for generations. An authentic traditional Khmer cooking class is an immersive, cultural journey that transforms fresh farm and market ingredients in an open-air kitchen. It emphasizes the fresh, rustic flavors of Cambodia, teaching you how to balance the elements of sweet, sour, salty, and umami.
 
 ---
