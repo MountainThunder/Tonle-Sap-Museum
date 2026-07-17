@@ -4,8 +4,8 @@ subtitle: Authentic Tonle Sap Lake Village - Kampong Khleang
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: village.png
-thumbnail: village-thumbnail.png
+img: village.jpg
+thumbnail: village.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
